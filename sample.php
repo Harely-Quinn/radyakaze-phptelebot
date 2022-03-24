@@ -2,7 +2,7 @@
 
 require_once __DIR__.'/src/PHPTelebot.php';
 
-$bot = new PHPTelebot('TOKEN', 'BOT_USERNAME');
+$bot = new PHPTelebot('5132260282:AAFgVVmhexEGLvKAjqzl8uXAqKL-D3ns9g0', 'WebHost_Uploading_Robot');
 
 // Simple answer
 $bot->cmd('*', 'Hi, human! I am a bot.');
